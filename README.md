@@ -1,16 +1,16 @@
-## Hi there 👋
+# 🧙‍♀️ Witchcraft Scripts
 
-<!--
-**witchcraftscripts/witchcraftscripts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I’m Michelle — a scripting sorceress conjuring code with Python.  
+🔮 I turn spellbooks into scripts and cauldrons into command lines.
 
-Here are some ideas to get you started:
+### 🧪 Tools of the Trade
+- Python • Power Query • Git • Excel automation
+- ADP GlobalView • Spinifex • Data audits & automation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🕯️ Current Projects
+- 🕹️ Text-based Python game [v1.0 live!]
+- 🧾 Payroll audit automation tools
+- 🎙️ Podcast: *Respawn & Reflect*
+- 🕹️ Twitch Affliate: *LadyGamerAdventures*
+
+---
